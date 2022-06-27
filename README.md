@@ -7,7 +7,7 @@ Fish Detections             |  Fish Visual field
 
 ![image](https://user-images.githubusercontent.com/36754185/176040166-0e87f567-8146-454d-b52d-b9f77801d34a.png)
 
-Deep Neural Network modeling the fish beauvoir. Inputs: looming from the surrounding objects, relative angular positions, hydrodymic drag force and distance from the border. Output: locomotion force components.
+Deep Neural Network modeling the fish beauvoir. Inputs: looming from the surrounding objects, relative angular positions, hydrodynamic drag force and distance from the border. Output: locomotion force components.
 
 ![img28](https://user-images.githubusercontent.com/36754185/176037468-1309aacb-4440-47ec-abd5-63d29bb6f459.png)
 
