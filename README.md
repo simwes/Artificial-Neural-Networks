@@ -11,4 +11,4 @@ Deep Neural Network modeling the fish beauvoir. Inputs: looming from the surroun
 
 ![img28](https://user-images.githubusercontent.com/36754185/176037468-1309aacb-4440-47ec-abd5-63d29bb6f459.png)
 
-Fish trajectory prediction. Orange dots: real trajectory. Green dots: trajectory predicted by a Neural Netwoks.
+Fish trajectory prediction. Orange dots: real trajectory. Green dots: trajectory predicted by a Neural Networks.
