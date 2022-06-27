@@ -1,5 +1,5 @@
 # Artificial-Neural-Networks
-Artificial neural networks for fish beauvoir modeling
+Artificial neural networks for fish behavior modeling
 
 Fish Detections             |  Fish Visual field
 :-------------------------:|:-------------------------:
